@@ -24,7 +24,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![1.PNG](./src/assets/1.PNG "1")
+![图片](customTree/src/assets/1.PNG "1")
 
 ### 树状说明（使用vue写）
 + 可动态添加、删除
