@@ -24,7 +24,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![图片](https://segmentfault.com/img/bVcHqt7 "1")
+![image.png](https://segmentfault.com/img/bVcHqt7)
 
 ### 树状说明（使用vue写）
 + 可动态添加、删除
